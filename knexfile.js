@@ -12,10 +12,10 @@ module.exports = {
   },
   migrations : {
     directory : __dirname + '/app/db/migrations'
-  }
+  },
   seeds : {
     directory : __dirname + '/app/db/seeds'
-  }
+   }
   },
 
   staging: {
